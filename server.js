@@ -1,6 +1,6 @@
 const anka = require('http');
 
-const port = 8090;
+const port = 80;
 
 const server = anka.createServer(function (pelicanRequest, swanResponse){
 
